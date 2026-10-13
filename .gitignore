@@ -1,0 +1,72 @@
+# ==========================================
+# C++ Compiled Binaries & Executables
+# ==========================================
+*.exe
+*.out
+*.app
+*.bin
+
+# Object & Library files
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dll
+*.dylib
+
+# Precompiled Headers & Debug Info
+*.gch
+*.pch
+*.dSYM/
+*.pdb
+*.ilk
+*.idb
+
+# ==========================================
+# Competitive Programming Local I/O Files
+# ==========================================
+# Scratch/test input and output files
+input.txt
+output.txt
+in.txt
+out.txt
+test.txt
+temp.txt
+*.in
+*.ans
+
+# ==========================================
+# IDE & Editor Configurations
+# ==========================================
+# Visual Studio Code
+.vscode/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# JetBrains / CLion
+.idea/
+cmake-build-*/
+
+# Code::Blocks
+*.cbp
+*.depend
+*.layout
+
+# Sublime Text
+*.sublime-workspace
+*.sublime-project
+
+# ==========================================
+# OS Generated Files
+# ==========================================
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# AI Prompts & Instructions
+AGENTS.md
+templates/master-prompt.md
